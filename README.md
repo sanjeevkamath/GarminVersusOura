@@ -67,6 +67,3 @@ Mean:  15.533333333333333 , Median:  15.5 , Standard Deviation:  0.3749073959733
 Average Respiration - Garmin:
 
 Mean:  13.142857142857142 , Median:  13.0 , Standard Deviation:  0.8329931278350431 
-
-## References
-[Link to Data Download Steps and Format](https://github.com/tintin305/GarminSleepAnalytics?tab=readme-ov-file#data-download)

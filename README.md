@@ -10,26 +10,26 @@ To download your own data, use the following [link](https://www.garmin.com/en-US
 
 # Descriptive Statistics
 
-Descriptive Statistics - Deep Sleep Seconds - Oura:
+Deep Sleep Seconds - Oura:
 Mean:  5670.0 , Median:  5970.0 , Standard Deviation:  1794.1906253238533 
 
-Descriptive Statistics - Deep Sleep Seconds - Garmin:
+Deep Sleep Seconds - Garmin:
 Mean:  5245.714285714285 , Median:  5370.0 , Standard Deviation:  2786.769031091931 
 
-Descriptive Statistics - Light Sleep Seconds - Oura:
+Light Sleep Seconds - Oura:
 Mean:  11682.0 , Median:  13500.0 , Standard Deviation:  3768.152863141303 
 
-Descriptive Statistics - Light Sleep Seconds - Garmin:
+Light Sleep Seconds - Garmin:
 Mean:  16242.857142857143 , Median:  16500.0 , Standard Deviation:  3401.6370608690086 
 
-Descriptive Statistics - REM Sleep Seconds - Oura:
+REM Sleep Seconds - Oura:
 Mean:  6074.0 , Median:  6900.0 , Standard Deviation:  2173.31635985192 
 
-Descriptive Statistics - REM Sleep Seconds - Garmin:
+REM Sleep Seconds - Garmin:
 Mean:  6085.714285714285 , Median:  5880.0 , Standard Deviation:  2053.407322635492 
 
-Descriptive Statistics - Average Respiration - Oura:
+Average Respiration - Oura:
 Mean:  15.533333333333333 , Median:  15.5 , Standard Deviation:  0.37490739597339984 
 
-Descriptive Statistics - Average Respiration - Garmin:
+Average Respiration - Garmin:
 Mean:  13.142857142857142 , Median:  13.0 , Standard Deviation:  0.8329931278350431 

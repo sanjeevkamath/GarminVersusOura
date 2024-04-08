@@ -1,1 +1,1 @@
-# GarminVersusOura
+# Garmin Versus Oura

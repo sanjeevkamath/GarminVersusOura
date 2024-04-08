@@ -1,0 +1,139 @@
+{
+  "sleep": [
+    {
+      "average_breath": 16.125,
+      "bedtime_end": "2024-02-29T06:33:38.000-05:00",
+      "bedtime_start": "2024-02-29T00:04:58.000-05:00",
+      "day": "2024-02-29",
+      "deep_sleep_duration": 6240,
+      "light_sleep_duration": 9480,
+      "rem_sleep_duration": 5970
+    },
+    {
+      "average_breath": 16.125,
+      "bedtime_end": "2024-02-29T15:36:29.000-05:00",
+      "bedtime_start": "2024-02-29T13:31:28.000-05:00",
+      "day": "2024-02-29",
+      "deep_sleep_duration": 2820,
+      "light_sleep_duration": 2730,
+      "rem_sleep_duration": 1020
+    },
+    {
+      "average_breath": 15.875,
+      "bedtime_end": "2024-03-01T07:34:22.000-05:00",
+      "bedtime_start": "2024-02-29T23:18:28.000-05:00",
+      "day": "2024-03-01",
+      "deep_sleep_duration": 6240,
+      "light_sleep_duration": 12480,
+      "rem_sleep_duration": 8160
+    },
+    {
+      "average_breath": 15.75,
+      "bedtime_end": "2024-03-02T08:01:27.000-05:00",
+      "bedtime_start": "2024-03-02T00:33:27.000-05:00",
+      "day": "2024-03-02",
+      "deep_sleep_duration": 5460,
+      "light_sleep_duration": 13950,
+      "rem_sleep_duration": 5580
+    },
+    {
+      "average_breath": 15.5,
+      "bedtime_end": "2024-03-03T08:09:37.000-05:00",
+      "bedtime_start": "2024-03-03T00:52:30.000-05:00",
+      "day": "2024-03-03",
+      "deep_sleep_duration": 5970,
+      "light_sleep_duration": 13350,
+      "rem_sleep_duration": 5940
+    },
+    {
+      "average_breath": 15.25,
+      "bedtime_end": "2024-03-04T08:28:01.000-05:00",
+      "bedtime_start": "2024-03-03T22:47:01.000-05:00",
+      "day": "2024-03-04",
+      "deep_sleep_duration": 8340,
+      "light_sleep_duration": 14010,
+      "rem_sleep_duration": 9270
+    },
+    {
+      "average_breath": 15.375,
+      "bedtime_end": "2024-03-05T08:08:01.000-05:00",
+      "bedtime_start": "2024-03-05T00:46:01.000-05:00",
+      "day": "2024-03-05",
+      "deep_sleep_duration": 5460,
+      "light_sleep_duration": 13950,
+      "rem_sleep_duration": 4650
+    },
+    {
+      "average_breath": 15.875,
+      "bedtime_end": "2024-03-06T07:45:32.000-05:00",
+      "bedtime_start": "2024-03-06T01:13:32.000-05:00",
+      "day": "2024-03-06",
+      "deep_sleep_duration": 8430,
+      "light_sleep_duration": 6780,
+      "rem_sleep_duration": 6990
+    },
+    {
+      "average_breath": 14.75,
+      "bedtime_end": "2024-03-07T06:08:01.000-06:00",
+      "bedtime_start": "2024-03-06T23:30:01.000-06:00",
+      "day": "2024-03-07",
+      "deep_sleep_duration": 4920,
+      "light_sleep_duration": 9570,
+      "rem_sleep_duration": 8190
+    },
+    {
+      "average_breath": 15.125,
+      "bedtime_end": "2024-03-08T04:40:29.000-06:00",
+      "bedtime_start": "2024-03-08T01:38:29.000-06:00",
+      "day": "2024-03-08",
+      "deep_sleep_duration": 1410,
+      "light_sleep_duration": 5940,
+      "rem_sleep_duration": 2190
+    },
+    {
+      "average_breath": 15.25,
+      "bedtime_end": "2024-03-19T07:31:33.000-04:00",
+      "bedtime_start": "2024-03-19T00:31:33.000-04:00",
+      "day": "2024-03-19",
+      "deep_sleep_duration": 5190,
+      "light_sleep_duration": 13500,
+      "rem_sleep_duration": 4380
+    },
+    {
+      "average_breath": 15.25,
+      "bedtime_end": "2024-03-20T08:05:33.000-04:00",
+      "bedtime_start": "2024-03-20T00:11:33.000-04:00",
+      "day": "2024-03-20",
+      "deep_sleep_duration": 4260,
+      "light_sleep_duration": 15360,
+      "rem_sleep_duration": 7110
+    },
+    {
+      "average_breath": 15.375,
+      "bedtime_end": "2024-03-21T07:23:14.000-04:00",
+      "bedtime_start": "2024-03-20T22:53:05.000-04:00",
+      "day": "2024-03-21",
+      "deep_sleep_duration": 6810,
+      "light_sleep_duration": 14040,
+      "rem_sleep_duration": 7350
+    },
+    {
+      "average_breath": 15.625,
+      "bedtime_end": "2024-03-23T08:57:32.000-04:00",
+      "bedtime_start": "2024-03-23T00:51:32.000-04:00",
+      "day": "2024-03-23",
+      "deep_sleep_duration": 6870,
+      "light_sleep_duration": 13950,
+      "rem_sleep_duration": 6900
+    },
+    {
+      "average_breath": 15.75,
+      "bedtime_end": "2024-03-25T07:49:29.000-04:00",
+      "bedtime_start": "2024-03-24T22:39:29.000-04:00",
+      "day": "2024-03-25",
+      "deep_sleep_duration": 6630,
+      "light_sleep_duration": 16140,
+      "rem_sleep_duration": 7410
+    }
+  ]
+}

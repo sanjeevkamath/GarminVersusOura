@@ -1,6 +1,6 @@
 # Garmin Versus Oura
 
-The aim of this repository is to gain insight from the difference in specific sleep monitoring variables monitored in the Oura Ring and Garmin Venu 2 Sq.
+The aim of this repository is to gain insight from the difference in specific sleep monitoring variables monitored in the Oura Ring and Garmin Venu 2 Sq. Different devices may employ varying algorithms and sensors to monitor sleep. Comparing their outputs can help assess the accuracy and reliability of each device in capturing sleep-related metrics. This is particularly important for individuals who rely on these devices for sleep tracking as part of their health and wellness routine.
 
 # Garmin and Oura Data Download
 

@@ -10,7 +10,7 @@ For **Oura** data, use the following [link](https://cloud.ouraring.com/profile).
 
 # Garmin Data Format
 
-The data takes a while to be compiled for both Garmin, then it is sent through as an email. To see a full list of the sleep variables that are compiled when you download the data files from both companies, see [this file](https://github.com/andreac0ntreras/GarminVersusOura/blob/main/Garmin%20and%20Oura%20data%20description.pdf).
+The data takes a while to be compiled for Garmin, then it is sent through as an email. To see a full list of the sleep variables that are compiled when you download the data files from both companies, see [this file](https://github.com/andreac0ntreras/GarminVersusOura/blob/main/Garmin%20and%20Oura%20data%20description.pdf).
 
 The data generated is downloaded as a zipped file. It contains a number of folders with all of the different data that is kept.
 The data for the sleep is kept in the following directory:

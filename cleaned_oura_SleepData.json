@@ -8,7 +8,8 @@
       "deep_sleep_duration": 6240,
       "light_sleep_duration": 9480,
       "rem_sleep_duration": 5970,
-      "total_sleep_seconds": 23320.0
+      "total_sleep_seconds": 23320.0,
+      "total_sleep_minutes": 388.6666666666667
     },
     {
       "average_breath": 15.875,
@@ -18,7 +19,8 @@
       "deep_sleep_duration": 6240,
       "light_sleep_duration": 12480,
       "rem_sleep_duration": 8160,
-      "total_sleep_seconds": 29754.0
+      "total_sleep_seconds": 29754.0,
+      "total_sleep_minutes": 495.9
     },
     {
       "average_breath": 15.75,
@@ -28,7 +30,8 @@
       "deep_sleep_duration": 5460,
       "light_sleep_duration": 13950,
       "rem_sleep_duration": 5580,
-      "total_sleep_seconds": 26880.0
+      "total_sleep_seconds": 26880.0,
+      "total_sleep_minutes": 448.0
     },
     {
       "average_breath": 15.5,
@@ -38,7 +41,8 @@
       "deep_sleep_duration": 5970,
       "light_sleep_duration": 13350,
       "rem_sleep_duration": 5940,
-      "total_sleep_seconds": 26227.0
+      "total_sleep_seconds": 26227.0,
+      "total_sleep_minutes": 437.1166666666667
     },
     {
       "average_breath": 15.25,
@@ -48,7 +52,8 @@
       "deep_sleep_duration": 8340,
       "light_sleep_duration": 14010,
       "rem_sleep_duration": 9270,
-      "total_sleep_seconds": 34860.0
+      "total_sleep_seconds": 34860.0,
+      "total_sleep_minutes": 581.0
     },
     {
       "average_breath": 15.375,
@@ -58,7 +63,8 @@
       "deep_sleep_duration": 5460,
       "light_sleep_duration": 13950,
       "rem_sleep_duration": 4650,
-      "total_sleep_seconds": 26520.0
+      "total_sleep_seconds": 26520.0,
+      "total_sleep_minutes": 442.0
     },
     {
       "average_breath": 15.875,
@@ -68,7 +74,8 @@
       "deep_sleep_duration": 8430,
       "light_sleep_duration": 6780,
       "rem_sleep_duration": 6990,
-      "total_sleep_seconds": 23520.0
+      "total_sleep_seconds": 23520.0,
+      "total_sleep_minutes": 392.0
     },
     {
       "average_breath": 14.75,
@@ -78,7 +85,8 @@
       "deep_sleep_duration": 4920,
       "light_sleep_duration": 9570,
       "rem_sleep_duration": 8190,
-      "total_sleep_seconds": 23880.0
+      "total_sleep_seconds": 23880.0,
+      "total_sleep_minutes": 398.0
     },
     {
       "average_breath": 15.125,
@@ -88,7 +96,8 @@
       "deep_sleep_duration": 1410,
       "light_sleep_duration": 5940,
       "rem_sleep_duration": 2190,
-      "total_sleep_seconds": 10920.0
+      "total_sleep_seconds": 10920.0,
+      "total_sleep_minutes": 182.0
     },
     {
       "average_breath": 15.25,
@@ -98,7 +107,8 @@
       "deep_sleep_duration": 5190,
       "light_sleep_duration": 13500,
       "rem_sleep_duration": 4380,
-      "total_sleep_seconds": 25200.0
+      "total_sleep_seconds": 25200.0,
+      "total_sleep_minutes": 420.0
     },
     {
       "average_breath": 15.25,
@@ -108,7 +118,8 @@
       "deep_sleep_duration": 4260,
       "light_sleep_duration": 15360,
       "rem_sleep_duration": 7110,
-      "total_sleep_seconds": 28440.0
+      "total_sleep_seconds": 28440.0,
+      "total_sleep_minutes": 474.0
     },
     {
       "average_breath": 15.375,
@@ -118,7 +129,8 @@
       "deep_sleep_duration": 6810,
       "light_sleep_duration": 14040,
       "rem_sleep_duration": 7350,
-      "total_sleep_seconds": 30609.0
+      "total_sleep_seconds": 30609.0,
+      "total_sleep_minutes": 510.15
     },
     {
       "average_breath": 15.625,
@@ -128,7 +140,8 @@
       "deep_sleep_duration": 6870,
       "light_sleep_duration": 13950,
       "rem_sleep_duration": 6900,
-      "total_sleep_seconds": 29160.0
+      "total_sleep_seconds": 29160.0,
+      "total_sleep_minutes": 486.0
     },
     {
       "average_breath": 15.75,
@@ -138,7 +151,8 @@
       "deep_sleep_duration": 6630,
       "light_sleep_duration": 16140,
       "rem_sleep_duration": 7410,
-      "total_sleep_seconds": 33000.0
+      "total_sleep_seconds": 33000.0,
+      "total_sleep_minutes": 550.0
     }
   ]
 }

@@ -7,7 +7,8 @@
     "lightSleepSeconds": 17100,
     "remSleepSeconds": 7980,
     "averageRespiration": 14.0,
-    "totalSleepSeconds": 25260.0
+    "totalSleepSeconds": 25260.0,
+    "totalSleepMinutes": 421.0
   },
   {
     "sleepStartTimestampGMT": "2024-03-01T04:30:00.0",
@@ -17,7 +18,8 @@
     "lightSleepSeconds": 16260,
     "remSleepSeconds": 7320,
     "averageRespiration": 13.0,
-    "totalSleepSeconds": 28920.0
+    "totalSleepSeconds": 28920.0,
+    "totalSleepMinutes": 482.0
   },
   {
     "sleepStartTimestampGMT": "2024-03-02T05:40:00.0",
@@ -27,7 +29,8 @@
     "lightSleepSeconds": 16860,
     "remSleepSeconds": 2340,
     "averageRespiration": 14.0,
-    "totalSleepSeconds": 26700.0
+    "totalSleepSeconds": 26700.0,
+    "totalSleepMinutes": 445.0
   },
   {
     "sleepStartTimestampGMT": "2024-03-03T06:03:00.0",
@@ -37,7 +40,8 @@
     "lightSleepSeconds": 17340,
     "remSleepSeconds": 4440,
     "averageRespiration": 13.0,
-    "totalSleepSeconds": 26820.0
+    "totalSleepSeconds": 26820.0,
+    "totalSleepMinutes": 447.0
   },
   {
     "sleepStartTimestampGMT": "2024-03-04T03:57:00.0",
@@ -47,7 +51,8 @@
     "lightSleepSeconds": 16500,
     "remSleepSeconds": 6360,
     "averageRespiration": 13.0,
-    "totalSleepSeconds": 34260.0
+    "totalSleepSeconds": 34260.0,
+    "totalSleepMinutes": 571.0
   },
   {
     "sleepStartTimestampGMT": "2024-03-05T05:57:00.0",
@@ -57,7 +62,8 @@
     "lightSleepSeconds": 14640,
     "remSleepSeconds": 5520,
     "averageRespiration": 15.0,
-    "totalSleepSeconds": 25800.0
+    "totalSleepSeconds": 25800.0,
+    "totalSleepMinutes": 430.0
   },
   {
     "sleepStartTimestampGMT": "2024-03-06T06:21:00.0",
@@ -67,7 +73,8 @@
     "lightSleepSeconds": 10680,
     "remSleepSeconds": 5940,
     "averageRespiration": 14.0,
-    "totalSleepSeconds": 23040.0
+    "totalSleepSeconds": 23040.0,
+    "totalSleepMinutes": 384.0
   },
   {
     "sleepStartTimestampGMT": "2024-03-07T05:42:00.0",
@@ -77,7 +84,8 @@
     "lightSleepSeconds": 11100,
     "remSleepSeconds": 3960,
     "averageRespiration": 12.0,
-    "totalSleepSeconds": 23340.0
+    "totalSleepSeconds": 23340.0,
+    "totalSleepMinutes": 389.0
   },
   {
     "sleepStartTimestampGMT": "2024-03-08T06:52:00.0",
@@ -87,7 +95,8 @@
     "lightSleepSeconds": 15060,
     "remSleepSeconds": 5820,
     "averageRespiration": 12.0,
-    "totalSleepSeconds": 27660.0
+    "totalSleepSeconds": 27660.0,
+    "totalSleepMinutes": 461.0
   },
   {
     "sleepStartTimestampGMT": "2024-03-19T04:46:00.0",
@@ -97,7 +106,8 @@
     "lightSleepSeconds": 13020,
     "remSleepSeconds": 4920,
     "averageRespiration": 13.0,
-    "totalSleepSeconds": 24360.0
+    "totalSleepSeconds": 24360.0,
+    "totalSleepMinutes": 406.0
   },
   {
     "sleepStartTimestampGMT": "2024-03-20T04:21:00.0",
@@ -107,7 +117,8 @@
     "lightSleepSeconds": 16500,
     "remSleepSeconds": 8820,
     "averageRespiration": 12.0,
-    "totalSleepSeconds": 27780.0
+    "totalSleepSeconds": 27780.0,
+    "totalSleepMinutes": 463.0
   },
   {
     "sleepStartTimestampGMT": "2024-03-21T03:05:00.0",
@@ -117,7 +128,8 @@
     "lightSleepSeconds": 19560,
     "remSleepSeconds": 4800,
     "averageRespiration": 13.0,
-    "totalSleepSeconds": 30300.0
+    "totalSleepSeconds": 30300.0,
+    "totalSleepMinutes": 505.0
   },
   {
     "sleepStartTimestampGMT": "2024-03-23T04:11:00.0",
@@ -127,7 +139,8 @@
     "lightSleepSeconds": 17940,
     "remSleepSeconds": 10740,
     "averageRespiration": 13.0,
-    "totalSleepSeconds": 32460.0
+    "totalSleepSeconds": 32460.0,
+    "totalSleepMinutes": 541.0
   },
   {
     "sleepStartTimestampGMT": "2024-03-25T02:43:00.0",
@@ -137,6 +150,7 @@
     "lightSleepSeconds": 24840,
     "remSleepSeconds": 6240,
     "averageRespiration": 13.0,
-    "totalSleepSeconds": 32820.0
+    "totalSleepSeconds": 32820.0,
+    "totalSleepMinutes": 547.0
   }
 ]
